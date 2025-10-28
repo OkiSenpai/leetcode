@@ -1,4 +1,5 @@
-
+#Task: Find the Indices of Two Numbers That Add Up to a Given Value
+#Write a Python program that finds the indices of two numbers in a list whose sum equals a given result.
 
 brojevi = [2,11,7,15,3,6]
 res = 9
